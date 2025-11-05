@@ -1,6 +1,4 @@
-Excelente proyecto. A continuación, se presenta la estructura de carpetas y archivos, así como los procedimientos solicitados, siguiendo las mejores prácticas de Django.
 
-El uso de **diagramas o imágenes** es esencialmente para conceptos visuales o técnicos. En este caso, el proceso es de **código y estructura de archivos**, por lo que una **estructura de árbol de directorios** es la representación visual más útil.
 
 -----
 
